@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.card{
+  background-color: white;
+  padding: 10px 15px;
+  box-shadow: 0 2px 2px (0,0,0,0.3);
+  color: red;
+  margin-top: 1em
+}
